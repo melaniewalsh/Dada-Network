@@ -29,7 +29,8 @@ var force = d3.layout.force()
 
 var svg = d3.select("body").append("svg")
     .attr("width", width)
-    .attr("height", height);
+    .attr("height", height)
+   .call(d3.behavior.zoom().on('zoom', zoomed));    
 
 d3.json("network_lcsh.json", function(error, graph) {
   if (error) throw error;
@@ -66,5 +67,9 @@ d3.json("network_lcsh.json", function(error, graph) {
         .attr("cy", function(d) { return d.y; });
   });
 });
+
+function zoomed() {
+  container.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+}
 
 </script>
