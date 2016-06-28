@@ -55,7 +55,7 @@ d3.json("network_lcsh.json", function(error, graph) {
       .call(force.drag);
 
   node.append("title")
-      .text(function(d) { return d.name; });
+      .text(function(d) { return d.id; });
 
   force.on("tick", function() {
     link.attr("x1", function(d) { return d.source.x; })
@@ -69,7 +69,7 @@ d3.json("network_lcsh.json", function(error, graph) {
 });
 
 function zoomed() {
-  container.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+  svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
 }
 
 </script>
