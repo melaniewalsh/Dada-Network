@@ -3567,1747 +3567,2183 @@
     "nodes": [
         {
             "betweenness": 0.0,
-            "id": "Commentaries"
+            "id": "Commentaries",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.0,
-            "id": "Paraphrases, English"
+            "id": "Paraphrases, English",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.08234372450280675,
-            "id": "17th century"
+            "id": "17th century",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.09464670545698847,
-            "id": "Poetry"
+            "id": "Poetry",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.0,
-            "id": "To 1485"
+            "id": "To 1485",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.003744845279586355,
-            "id": "Church history"
+            "id": "Church history",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "1558-1603"
+            "id": "1558-1603",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Trials"
+            "id": "Trials",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Coinage"
+            "id": "Coinage",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Love poetry, English"
+            "id": "Love poetry, English",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Henry"
+            "id": "Henry",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Prince of Wales, 1688-1766"
+            "id": "Prince of Wales, 1688-1766",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Earl of, 1566-1601"
+            "id": "Earl of, 1566-1601",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Examinations"
+            "id": "Examinations",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Leeds, Thomas Osborne,"
+            "id": "Leeds, Thomas Osborne,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Estates (Law)"
+            "id": "Estates (Law)",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.003495947878595265,
-            "id": "Soldiers"
+            "id": "Soldiers",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Turkey"
+            "id": "Turkey",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Baron, 1598-1652"
+            "id": "Baron, 1598-1652",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "1648-1714"
+            "id": "1648-1714",
+            "position_in_compound": 2
         },
         {
             "betweenness": 1.3434915562150156e-05,
-            "id": "1648-1715"
+            "id": "1648-1715",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "War of 1689-1691"
+            "id": "War of 1689-1691",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Devotional literature"
+            "id": "Devotional literature",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Regicides"
+            "id": "Regicides",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Theater"
+            "id": "Theater",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "O.T"
+            "id": "O.T",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Essence, genius, nature"
+            "id": "Essence, genius, nature",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.01129051614132282,
-            "id": "Politics and government"
+            "id": "Politics and government",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "of Modena, Queen, consort of James II, King of England, 1658-1718"
+            "id": "of Modena, Queen, consort of James II, King of England, 1658-1718",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Duke of, 1592-1676"
+            "id": "Duke of, 1592-1676",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Campaigns"
+            "id": "Campaigns",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.0,
-            "id": "Henry VIII, 1509-1547"
+            "id": "Henry VIII, 1509-1547",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Wars of Independence, 1556-1648"
+            "id": "Wars of Independence, 1556-1648",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Sir, 1619?-1674?"
+            "id": "Sir, 1619?-1674?",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Debtor and creditor"
+            "id": "Debtor and creditor",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Bishops"
+            "id": "Bishops",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Sir, d. 1661"
+            "id": "Sir, d. 1661",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Appropriations and expenditures"
+            "id": "Appropriations and expenditures",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Henry III, 1574-1589"
+            "id": "Henry III, 1574-1589",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Strafford, Thomas Wentworth,"
+            "id": "Strafford, Thomas Wentworth,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Marriage"
+            "id": "Marriage",
+            "position_in_compound": 0
         },
         {
             "betweenness": 5.732183548805193e-05,
-            "id": "Ballads, English"
+            "id": "Ballads, English",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Natural history"
+            "id": "Natural history",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Imprisonment"
+            "id": "Imprisonment",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Land tenure"
+            "id": "Land tenure",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Huguenots"
+            "id": "Huguenots",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Quakers"
+            "id": "Quakers",
+            "position_in_compound": 0
         },
         {
             "betweenness": 7.027843454329796e-05,
-            "id": "William and Mary, 1689-1702"
+            "id": "William and Mary, 1689-1702",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Puritan Revolution, 1642-1660"
+            "id": "Puritan Revolution, 1642-1660",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Catalogs, Booksellers'"
+            "id": "Catalogs, Booksellers'",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Wales"
+            "id": "Wales",
+            "position_in_compound": 4
         },
         {
             "betweenness": 0.0006829292202740297,
-            "id": "Wool industry"
+            "id": "Wool industry",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "1517-1648"
+            "id": "1517-1648",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0008513109067333765,
-            "id": "Europe"
+            "id": "Europe",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Detention of persons"
+            "id": "Detention of persons",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Queen of England, 1533-1603"
+            "id": "Queen of England, 1533-1603",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Lent"
+            "id": "Lent",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Loyalty oaths"
+            "id": "Loyalty oaths",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Wars of the Huguenots, 1562-1598"
+            "id": "Wars of the Huguenots, 1562-1598",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Patent medicines"
+            "id": "Patent medicines",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0006829292202740297,
-            "id": "Ecclesiastical law"
+            "id": "Ecclesiastical law",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Primitive and early church, ca. 30-600"
+            "id": "Primitive and early church, ca. 30-600",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Tithes"
+            "id": "Tithes",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Modern period, 1500-"
+            "id": "Modern period, 1500-",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0006829292202740297,
-            "id": "Law reports, digests, etc"
+            "id": "Law reports, digests, etc",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Sir, 1621-1678"
+            "id": "Sir, 1621-1678",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Royalists"
+            "id": "Royalists",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0006829292202740297,
-            "id": "Freedom of religion"
+            "id": "Freedom of religion",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Customs and practices"
+            "id": "Customs and practices",
+            "position_in_compound": 1
         },
         {
             "betweenness": 1.0593781450288681e-05,
-            "id": "Protestantism"
+            "id": "Protestantism",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Godfrey, Edmund Berry,"
+            "id": "Godfrey, Edmund Berry,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Christian sects"
+            "id": "Christian sects",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Billeting"
+            "id": "Billeting",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0037350470274365674,
-            "id": "Society of Friends"
+            "id": "Society of Friends",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Duties"
+            "id": "Duties",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.011401154205995972,
-            "id": "Parliament"
+            "id": "Parliament",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.034006038455426664,
-            "id": "Prophecies"
+            "id": "Prophecies",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "House of Commons"
+            "id": "House of Commons",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Sir, 1597?-1668"
+            "id": "Sir, 1597?-1668",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Anglo-Dutch War, 1664-1667"
+            "id": "Anglo-Dutch War, 1664-1667",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Expulsion"
+            "id": "Expulsion",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Succession"
+            "id": "Succession",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0003370807534317329,
-            "id": "II,"
+            "id": "II,",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Hesilrige, Arthur,"
+            "id": "Hesilrige, Arthur,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Fire, 1666"
+            "id": "Fire, 1666",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Prohibited books"
+            "id": "Prohibited books",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.01474061267928685,
-            "id": "Sources"
+            "id": "Sources",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.0,
-            "id": "Earl of, 1602-1671"
+            "id": "Earl of, 1602-1671",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.00027594014724107064,
-            "id": "King of England, 1630-1685"
+            "id": "King of England, 1630-1685",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Descent into hell"
+            "id": "Descent into hell",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Criminals"
+            "id": "Criminals",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Wrath"
+            "id": "Wrath",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.003311270318224441,
-            "id": "Dissenters, Religious"
+            "id": "Dissenters, Religious",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Fairfax, Thomas Fairfax,"
+            "id": "Fairfax, Thomas Fairfax,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0004960740213261687,
-            "id": "Catholics"
+            "id": "Catholics",
+            "position_in_compound": 0
         },
         {
             "betweenness": 4.9924650274245046e-05,
-            "id": "Description and travel"
+            "id": "Description and travel",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0006829292202740297,
-            "id": "Prerogative, Royal"
+            "id": "Prerogative, Royal",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Londonderry (Northern Ireland)"
+            "id": "Londonderry (Northern Ireland)",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.003495947878595265,
-            "id": "Popes"
+            "id": "Popes",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Hull (England)"
+            "id": "Hull (England)",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0006829292202740297,
-            "id": "Trials (Treason)"
+            "id": "Trials (Treason)",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Spain"
+            "id": "Spain",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0006829292202740297,
-            "id": "Anti-Catholicism"
+            "id": "Anti-Catholicism",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Mercy"
+            "id": "Mercy",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Grammar"
+            "id": "Grammar",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "English drama"
+            "id": "English drama",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Shaftesbury, Anthony Ashley Cooper,"
+            "id": "Shaftesbury, Anthony Ashley Cooper,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Viscount, 1614-1680"
+            "id": "Viscount, 1614-1680",
+            "position_in_compound": 1
         },
         {
             "betweenness": 1.0593781450288681e-05,
-            "id": "Buckingham, George Villiers,"
+            "id": "Buckingham, George Villiers,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Court of Common Council"
+            "id": "Court of Common Council",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.003495947878595265,
-            "id": "Songs, English"
+            "id": "Songs, English",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0014661304997820787,
-            "id": "1649-1660"
+            "id": "1649-1660",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Authority"
+            "id": "Authority",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Worship and love"
+            "id": "Worship and love",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Treaties"
+            "id": "Treaties",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.11646214881816173,
-            "id": "Great Britain"
+            "id": "Great Britain",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Committee for the Militia"
+            "id": "Committee for the Militia",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Council"
+            "id": "Council",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "1688-1689"
+            "id": "1688-1689",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Agriculture"
+            "id": "Agriculture",
+            "position_in_compound": 0
         },
         {
             "betweenness": 1.0593781450288681e-05,
-            "id": "Essex, Robert Devereux,"
+            "id": "Essex, Robert Devereux,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.003321111175874859,
-            "id": "Humor"
+            "id": "Humor",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.008096547894766253,
-            "id": "London (England)"
+            "id": "London (England)",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.004240069618869699,
-            "id": "Fasts and feasts"
+            "id": "Fasts and feasts",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Holles, Denzil Holles,"
+            "id": "Holles, Denzil Holles,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.00012128871517379157,
-            "id": "Restoration, 1660-1688"
+            "id": "Restoration, 1660-1688",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.00015187622966106995,
-            "id": "King of England, 1600-1649"
+            "id": "King of England, 1600-1649",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Postal service"
+            "id": "Postal service",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Duke of, 1608-1670"
+            "id": "Duke of, 1608-1670",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Elizabeth"
+            "id": "Elizabeth",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "1642-1660"
+            "id": "1642-1660",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0016225275502564271,
-            "id": "Law and legislation"
+            "id": "Law and legislation",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Siege, 1648"
+            "id": "Siege, 1648",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.00027594014724107064,
-            "id": "William"
+            "id": "William",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0007410552418714616,
-            "id": "Proclamations"
+            "id": "Proclamations",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.003495947878595265,
-            "id": "Plague"
+            "id": "Plague",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Office"
+            "id": "Office",
+            "position_in_compound": 1
         },
         {
             "betweenness": 1.5890672175433022e-05,
-            "id": "Colonial period, ca. 1600-1775"
+            "id": "Colonial period, ca. 1600-1775",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Rogues and vagabonds"
+            "id": "Rogues and vagabonds",
+            "position_in_compound": 0
         },
         {
             "betweenness": 5.812602159743252e-05,
-            "id": "Commerce"
+            "id": "Commerce",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Trials (Murder)"
+            "id": "Trials (Murder)",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Monopolies"
+            "id": "Monopolies",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Contested elections"
+            "id": "Contested elections",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.00027594014724107064,
-            "id": "III,"
+            "id": "III,",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Marquis of, 1598-1661"
+            "id": "Marquis of, 1598-1661",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Rupert,"
+            "id": "Rupert,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Money"
+            "id": "Money",
+            "position_in_compound": 0
         },
         {
             "betweenness": 1.0593781450288681e-05,
-            "id": "City of London (England)"
+            "id": "City of London (England)",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Constitutional history"
+            "id": "Constitutional history",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Religion and politics"
+            "id": "Religion and politics",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "International travel regulations"
+            "id": "International travel regulations",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Puritans"
+            "id": "Puritans",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Catholic authors"
+            "id": "Catholic authors",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.003495947878595265,
-            "id": "University of Oxford"
+            "id": "University of Oxford",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Anabaptists"
+            "id": "Anabaptists",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Anecdotes"
+            "id": "Anecdotes",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.003495947878595265,
-            "id": "Medicine"
+            "id": "Medicine",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.00602025508559918,
-            "id": "Church of Scotland"
+            "id": "Church of Scotland",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Catalogs"
+            "id": "Catalogs",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Real presence"
+            "id": "Real presence",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "King of France, 1553-1610"
+            "id": "King of France, 1553-1610",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "New England"
+            "id": "New England",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.014072105055340393,
-            "id": "Christian life"
+            "id": "Christian life",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Monmouth, James Scott,"
+            "id": "Monmouth, James Scott,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "House of Lords"
+            "id": "House of Lords",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Restoration, 1660-1700"
+            "id": "Restoration, 1660-1700",
+            "position_in_compound": 1
         },
         {
             "betweenness": 7.194943234987728e-05,
-            "id": "History, Naval"
+            "id": "History, Naval",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Charitable contributions"
+            "id": "Charitable contributions",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.00012128871517379157,
-            "id": "Charles II, 1660-1685"
+            "id": "Charles II, 1660-1685",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Young men"
+            "id": "Young men",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.003495947878595265,
-            "id": "Christianity"
+            "id": "Christianity",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.24692371897621898,
-            "id": "History"
+            "id": "History",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Sovereign (1625-1649 : Charles I)"
+            "id": "Sovereign (1625-1649 : Charles I)",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Love"
+            "id": "Love",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Prayers"
+            "id": "Prayers",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Sir, 1616-1704"
+            "id": "Sir, 1616-1704",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Earl of, 1593-1641"
+            "id": "Earl of, 1593-1641",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Ormonde, James Butler,"
+            "id": "Ormonde, James Butler,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Siege, 1688-1689"
+            "id": "Siege, 1688-1689",
+            "position_in_compound": 2
         },
         {
             "betweenness": 5.812602159743252e-05,
-            "id": "Charles I, 1625-1649"
+            "id": "Charles I, 1625-1649",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Visitations, Ecclesiastical"
+            "id": "Visitations, Ecclesiastical",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Hotham, John,"
+            "id": "Hotham, John,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Pre-Linnean works"
+            "id": "Pre-Linnean works",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.00010593781450288681,
-            "id": "God"
+            "id": "God",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Peace"
+            "id": "Peace",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Liturgy"
+            "id": "Liturgy",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Case of the allegiance due to soveraign powers"
+            "id": "Case of the allegiance due to soveraign powers",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Sovereign (1660-1685 : Charles II)"
+            "id": "Sovereign (1660-1685 : Charles II)",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Evidences, authority, etc"
+            "id": "Evidences, authority, etc",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0012040743389243281,
-            "id": "16th century"
+            "id": "16th century",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Texts"
+            "id": "Texts",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Civil rights"
+            "id": "Civil rights",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Ballads, Scots"
+            "id": "Ballads, Scots",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Thirty-nine Articles"
+            "id": "Thirty-nine Articles",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.010424280947084062,
-            "id": "English poetry"
+            "id": "English poetry",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Church lands"
+            "id": "Church lands",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0015808523393123144,
-            "id": "Pastoral letters and charges"
+            "id": "Pastoral letters and charges",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Ballads"
+            "id": "Ballads",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Liberty of conscience"
+            "id": "Liberty of conscience",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Food law and legislation"
+            "id": "Food law and legislation",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Pamphlets"
+            "id": "Pamphlets",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.0,
-            "id": "1689-1714"
+            "id": "1689-1714",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Royal Navy"
+            "id": "Royal Navy",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Henry IV, 1589-1610"
+            "id": "Henry IV, 1589-1610",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Edward VI, 1547-1553"
+            "id": "Edward VI, 1547-1553",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "James I, 1603-1625"
+            "id": "James I, 1603-1625",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Lord, 1639-1683"
+            "id": "Lord, 1639-1683",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Waller, William,"
+            "id": "Waller, William,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 6.356268870173209e-05,
-            "id": "Jesus Christ"
+            "id": "Jesus Christ",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Prisoners"
+            "id": "Prisoners",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Chronology"
+            "id": "Chronology",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Prevention"
+            "id": "Prevention",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Funeral sermons"
+            "id": "Funeral sermons",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Prince, Count Palatine, 1619-1682"
+            "id": "Prince, Count Palatine, 1619-1682",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Inchiquin, Murrough O'Brien,"
+            "id": "Inchiquin, Murrough O'Brien,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Religion"
+            "id": "Religion",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Discipline"
+            "id": "Discipline",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Lotteries"
+            "id": "Lotteries",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "XIV,"
+            "id": "XIV,",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.02258704181938137,
-            "id": "England and Wales"
+            "id": "England and Wales",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Poor"
+            "id": "Poor",
+            "position_in_compound": 0
         },
         {
             "betweenness": 1.0593781450288681e-05,
-            "id": "Mary,"
+            "id": "Mary,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Baron, 1599-1680"
+            "id": "Baron, 1599-1680",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Indulgences"
+            "id": "Indulgences",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Puritan authors"
+            "id": "Puritan authors",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0032482645296452207,
-            "id": "Apologetic works"
+            "id": "Apologetic works",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0005862583667553804,
-            "id": "Finance, Public"
+            "id": "Finance, Public",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "King of France, 1638-1715"
+            "id": "King of France, 1638-1715",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0004518842576485868,
-            "id": "Netherlands"
+            "id": "Netherlands",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Psalms"
+            "id": "Psalms",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Louis"
+            "id": "Louis",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Foreign trade regulation"
+            "id": "Foreign trade regulation",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Anglican authors"
+            "id": "Anglican authors",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Nobility"
+            "id": "Nobility",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Formulae, receipts, prescriptions"
+            "id": "Formulae, receipts, prescriptions",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Duke of, 1628-1687"
+            "id": "Duke of, 1628-1687",
+            "position_in_compound": 1
         },
         {
             "betweenness": 1.0593781450288681e-05,
-            "id": "Latin language"
+            "id": "Latin language",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Earl of, 1631-1683"
+            "id": "Earl of, 1631-1683",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Education"
+            "id": "Education",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Mary I, 1553-1558"
+            "id": "Mary I, 1553-1558",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "York (England)"
+            "id": "York (England)",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.006981301975740242,
-            "id": "Conduct of life"
+            "id": "Conduct of life",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Separatists"
+            "id": "Separatists",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Lilburne, John, 1614?-1657"
+            "id": "Lilburne, John, 1614?-1657",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "L'Estrange, Roger,"
+            "id": "L'Estrange, Roger,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Elizabeth, 1558-1603"
+            "id": "Elizabeth, 1558-1603",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.005921718626561935,
-            "id": "France"
+            "id": "France",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Russell, William,"
+            "id": "Russell, William,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Sir, d. 1645 Jan. 2"
+            "id": "Sir, d. 1645 Jan. 2",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Schomberg, Friedrich Hermann Schomberg,"
+            "id": "Schomberg, Friedrich Hermann Schomberg,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "1649-1775"
+            "id": "1649-1775",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Independent churches"
+            "id": "Independent churches",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "General Assembly"
+            "id": "General Assembly",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Presbyterianism"
+            "id": "Presbyterianism",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.003495947878595265,
-            "id": "Lord's Supper"
+            "id": "Lord's Supper",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Study and teaching"
+            "id": "Study and teaching",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Courts"
+            "id": "Courts",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Prices"
+            "id": "Prices",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Religious poetry, English"
+            "id": "Religious poetry, English",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0026594617995597584,
-            "id": "Foreign relations"
+            "id": "Foreign relations",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Infallibility"
+            "id": "Infallibility",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.031018592086445255,
-            "id": "Bible"
+            "id": "Bible",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Duke of, 1615-1690"
+            "id": "Duke of, 1615-1690",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.006981301975740241,
-            "id": "Early modern, 1500-1700"
+            "id": "Early modern, 1500-1700",
+            "position_in_compound": 1
         },
         {
             "betweenness": 1.3434915562150156e-05,
-            "id": "1660-1714"
+            "id": "1660-1714",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Debt, Imprisonment for"
+            "id": "Debt, Imprisonment for",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Fast-day sermons"
+            "id": "Fast-day sermons",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Justice, Administration of"
+            "id": "Justice, Administration of",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Virginia"
+            "id": "Virginia",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Naval operations"
+            "id": "Naval operations",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.0,
-            "id": "Oaths"
+            "id": "Oaths",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Theology, Doctrinal"
+            "id": "Theology, Doctrinal",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0017862638645617752,
-            "id": "Doctrines"
+            "id": "Doctrines",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0006152642740448053,
-            "id": "Death"
+            "id": "Death",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Treason"
+            "id": "Treason",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0002161706593752816,
-            "id": "Periodicals"
+            "id": "Periodicals",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.0,
-            "id": "Riots"
+            "id": "Riots",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Biblical teaching"
+            "id": "Biblical teaching",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "James,"
+            "id": "James,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Conspiracies"
+            "id": "Conspiracies",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Newcastle, William Cavendish,"
+            "id": "Newcastle, William Cavendish,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.00027594014724107064,
-            "id": "King of England, 1633-1701"
+            "id": "King of England, 1633-1701",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Monarchy"
+            "id": "Monarchy",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "To 1688"
+            "id": "To 1688",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Revelation"
+            "id": "Revelation",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Restraint of trade"
+            "id": "Restraint of trade",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.010424280947084065,
-            "id": "Women"
+            "id": "Women",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.01769589024238526,
-            "id": "Controversial literature"
+            "id": "Controversial literature",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Commercial policy"
+            "id": "Commercial policy",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Earl of, 1621-1683"
+            "id": "Earl of, 1621-1683",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Poll tax"
+            "id": "Poll tax",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Political satire, English"
+            "id": "Political satire, English",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Louis XIV, 1643-1715"
+            "id": "Louis XIV, 1643-1715",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Creeds"
+            "id": "Creeds",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Revolution of 1688"
+            "id": "Revolution of 1688",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Divinity"
+            "id": "Divinity",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Edinburgh (Lothian)"
+            "id": "Edinburgh (Lothian)",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "1599-1658"
+            "id": "1599-1658",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Inclosures"
+            "id": "Inclosures",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.001358402634784619,
-            "id": "Taxation"
+            "id": "Taxation",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Earl of, 1607-1651"
+            "id": "Earl of, 1607-1651",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0009689419966712199,
-            "id": "I,"
+            "id": "I,",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Persecution"
+            "id": "Persecution",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Sherlock, William, 1641?-1707"
+            "id": "Sherlock, William, 1641?-1707",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Faith"
+            "id": "Faith",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.011258567958869885,
-            "id": "Religious aspects"
+            "id": "Religious aspects",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Albemarle, George Monck,"
+            "id": "Albemarle, George Monck,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0022466340112494354,
-            "id": "Civil War, 1642-1649"
+            "id": "Civil War, 1642-1649",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Salvation"
+            "id": "Salvation",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "1453-1683"
+            "id": "1453-1683",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Apologetics"
+            "id": "Apologetics",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Duke of, 1631-1712"
+            "id": "Duke of, 1631-1712",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Registers"
+            "id": "Registers",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Freedom of the press"
+            "id": "Freedom of the press",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Pay, allowances, etc"
+            "id": "Pay, allowances, etc",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.00027594014724107064,
-            "id": "Queen of England, 1662-1694"
+            "id": "Queen of England, 1662-1694",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Criticism, interpretation, etc"
+            "id": "Criticism, interpretation, etc",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "1689-1702"
+            "id": "1689-1702",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Crime"
+            "id": "Crime",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Spiritual life"
+            "id": "Spiritual life",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Attributes"
+            "id": "Attributes",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Sir, 1572-1636"
+            "id": "Sir, 1572-1636",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0006319446188207934,
-            "id": "Protestants"
+            "id": "Protestants",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Defenses"
+            "id": "Defenses",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0020724445837220595,
-            "id": "1660-1688"
+            "id": "1660-1688",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Essex, Arthur Capel,"
+            "id": "Essex, Arthur Capel,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Primacy"
+            "id": "Primacy",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Censorship"
+            "id": "Censorship",
+            "position_in_compound": 0
         },
         {
             "betweenness": 2.525910675857616e-05,
-            "id": "1603-1714"
+            "id": "1603-1714",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Trading companies"
+            "id": "Trading companies",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Satire, English"
+            "id": "Satire, English",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.00031913017930763226,
-            "id": "James"
+            "id": "James",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Sermons, American"
+            "id": "Sermons, American",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Bristol, George Digby,"
+            "id": "Bristol, George Digby,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Rebellion of 1641"
+            "id": "Rebellion of 1641",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Christian poetry, English"
+            "id": "Christian poetry, English",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Art"
+            "id": "Art",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Catechisms"
+            "id": "Catechisms",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Wine"
+            "id": "Wine",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Art auctions"
+            "id": "Art auctions",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.24474615633208782,
-            "id": "England"
+            "id": "England",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Pirates"
+            "id": "Pirates",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Popish Plot, 1678"
+            "id": "Popish Plot, 1678",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Brigands and robbers"
+            "id": "Brigands and robbers",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Political ballads and songs"
+            "id": "Political ballads and songs",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "N.T"
+            "id": "N.T",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.000855674154462549,
-            "id": "London"
+            "id": "London",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Baron, 1612-1671"
+            "id": "Baron, 1612-1671",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.006830791084751644,
-            "id": "Ireland"
+            "id": "Ireland",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0055032582698242944,
-            "id": "Army"
+            "id": "Army",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "IV,"
+            "id": "IV,",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.003755771281630796,
-            "id": "Church and state"
+            "id": "Church and state",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Protestant authors"
+            "id": "Protestant authors",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Colchester (England)"
+            "id": "Colchester (England)",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Elegiac poetry, English"
+            "id": "Elegiac poetry, English",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Hopton, Ralph Hopton,"
+            "id": "Hopton, Ralph Hopton,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "History, Military"
+            "id": "History, Military",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Jesuits"
+            "id": "Jesuits",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Book of common prayer"
+            "id": "Book of common prayer",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.00027594014724107064,
-            "id": "Mary"
+            "id": "Mary",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Edinburgh"
+            "id": "Edinburgh",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.003495947878595264,
-            "id": "Kings and rulers"
+            "id": "Kings and rulers",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Earl of, 1614-1674"
+            "id": "Earl of, 1614-1674",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Cromwell, Oliver"
+            "id": "Cromwell, Oliver",
+            "position_in_compound": 0
         },
         {
             "betweenness": 9.985135839259468e-05,
-            "id": "Government"
+            "id": "Government",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "1603-1625"
+            "id": "1603-1625",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Earl of, 1587-1658"
+            "id": "Earl of, 1587-1658",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "King of England, 1566-1625"
+            "id": "King of England, 1566-1625",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Massachusetts"
+            "id": "Massachusetts",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Massey, Edward,"
+            "id": "Massey, Edward,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Sedition"
+            "id": "Sedition",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Inheritance and succession"
+            "id": "Inheritance and succession",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Impeachments"
+            "id": "Impeachments",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Earl of, 1591-1646"
+            "id": "Earl of, 1591-1646",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Tax collection"
+            "id": "Tax collection",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.00011423312952999238,
-            "id": "Militia"
+            "id": "Militia",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.005032306335816359,
-            "id": "Clergy"
+            "id": "Clergy",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Duke of, 1649-1685"
+            "id": "Duke of, 1649-1685",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0006829292202740297,
-            "id": "Social life and customs"
+            "id": "Social life and customs",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Moral and ethical aspects"
+            "id": "Moral and ethical aspects",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Terms of court"
+            "id": "Terms of court",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Warwick, Robert Rich,"
+            "id": "Warwick, Robert Rich,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Jeffreys, George Jeffreys,"
+            "id": "Jeffreys, George Jeffreys,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.00011577031122557893,
-            "id": "Stuarts, 1603-1714"
+            "id": "Stuarts, 1603-1714",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Printing"
+            "id": "Printing",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0029395796438641745,
-            "id": "Broadsides"
+            "id": "Broadsides",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Courten, William,"
+            "id": "Courten, William,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 1.3434915562150156e-05,
-            "id": "1689-1745"
+            "id": "1689-1745",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0001683493108796798,
-            "id": "1625-1649"
+            "id": "1625-1649",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Executions and executioners"
+            "id": "Executions and executioners",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0429340706648419,
-            "id": "Scotland"
+            "id": "Scotland",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Baron, 1644 or 5-1689"
+            "id": "Baron, 1644 or 5-1689",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Religious tolerance"
+            "id": "Religious tolerance",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Economic conditions"
+            "id": "Economic conditions",
+            "position_in_compound": 1
         },
         {
             "betweenness": 4.608443303164795e-06,
-            "id": "1642-1649"
+            "id": "1642-1649",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.030761191359001815,
-            "id": "Sermons"
+            "id": "Sermons",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Finance"
+            "id": "Finance",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.0,
-            "id": "Yorkshire (England)"
+            "id": "Yorkshire (England)",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Kent (England)"
+            "id": "Kent (England)",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.003495947878595265,
-            "id": "Theology"
+            "id": "Theology",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Confiscations and contributions"
+            "id": "Confiscations and contributions",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.0,
-            "id": "Argyll, Archibald Campbell,"
+            "id": "Argyll, Archibald Campbell,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 5.812602159743252e-05,
-            "id": "Public worship"
+            "id": "Public worship",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Derby, James Stanley,"
+            "id": "Derby, James Stanley,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.00027594014724107064,
-            "id": "King of England, 1650-1702"
+            "id": "King of England, 1650-1702",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Manchester, Edward Montagu,"
+            "id": "Manchester, Edward Montagu,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Prayer-books and devotions"
+            "id": "Prayer-books and devotions",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.003495947878595265,
-            "id": "Legal status, laws, etc"
+            "id": "Legal status, laws, etc",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Charity"
+            "id": "Charity",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.006970708194289952,
-            "id": "Temporal power"
+            "id": "Temporal power",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Early works to 1900"
+            "id": "Early works to 1900",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.00016596039599973674,
-            "id": "Commonwealth and Protectorate, 1649-1660"
+            "id": "Commonwealth and Protectorate, 1649-1660",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.06478156108447015,
-            "id": "Church of England"
+            "id": "Church of England",
+            "position_in_compound": 0
         },
         {
             "betweenness": 5.732183548805193e-05,
-            "id": "Sermons, English"
+            "id": "Sermons, English",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0001567392577002978,
-            "id": "Oxford (England)"
+            "id": "Oxford (England)",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Sin"
+            "id": "Sin",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Duke of, 1610-1688"
+            "id": "Duke of, 1610-1688",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Murder"
+            "id": "Murder",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Person and offices"
+            "id": "Person and offices",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Antinomianism"
+            "id": "Antinomianism",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Excise tax"
+            "id": "Excise tax",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "James II, 1685-1688"
+            "id": "James II, 1685-1688",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0006829292202740297,
-            "id": "Law"
+            "id": "Law",
+            "position_in_compound": 0
         },
         {
             "betweenness": 3.6451721119272836e-05,
-            "id": "Cromwell, Oliver, 1599-1658"
+            "id": "Cromwell, Oliver, 1599-1658",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Queen of Scots, 1542-1587"
+            "id": "Queen of Scots, 1542-1587",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Attachment and garnishment"
+            "id": "Attachment and garnishment",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Earl of, 1612-1677"
+            "id": "Earl of, 1612-1677",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "Examinations, questions, etc"
+            "id": "Examinations, questions, etc",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.00019512786476079026,
-            "id": "Coronation"
+            "id": "Coronation",
+            "position_in_compound": 3
         },
         {
             "betweenness": 0.003524786505876606,
-            "id": "Catholic Church"
+            "id": "Catholic Church",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Witchcraft"
+            "id": "Witchcraft",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Stafford, William Howard,"
+            "id": "Stafford, William Howard,",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0015060877577371483,
-            "id": "Charles"
+            "id": "Charles",
+            "position_in_compound": 0
         },
         {
             "betweenness": 0.0,
-            "id": "Duke of, 1592-1628"
+            "id": "Duke of, 1592-1628",
+            "position_in_compound": 1
         },
         {
             "betweenness": 0.0,
-            "id": "1691-"
+            "id": "1691-",
+            "position_in_compound": 2
         },
         {
             "betweenness": 0.0,
-            "id": "Reformation"
+            "id": "Reformation",
+            "position_in_compound": 0
         }
     ]
 }
