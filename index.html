@@ -32,6 +32,8 @@ var svg = d3.select("body").append("svg")
     .attr("height", height)
    .call(d3.behavior.zoom().on('zoom', zoomed));    
 
+var container = svg.append("g");
+
 d3.json("network_lcsh.json", function(error, graph) {
   if (error) throw error;
 
@@ -40,13 +42,13 @@ d3.json("network_lcsh.json", function(error, graph) {
       .links(graph.links)
       .start();
 
-  var link = svg.selectAll(".link")
+  var link = container.selectAll(".link")
       .data(graph.links)
     .enter().append("line")
       .attr("class", "link")
-      .style("stroke-width", function(d) { return Math.sqrt(d.value); });
+      .style("stroke-width", function(d) { return Math.sqrt(d.weight); });
 
-  var node = svg.selectAll(".node")
+  var node = container.selectAll(".node")
       .data(graph.nodes)
     .enter().append("circle")
       .attr("class", "node")
@@ -69,7 +71,7 @@ d3.json("network_lcsh.json", function(error, graph) {
 });
 
 function zoomed() {
-  svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+  container.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
 }
 
 </script>
