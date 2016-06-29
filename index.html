@@ -24,7 +24,7 @@ var color = d3.scale.category20();
 
 var size = d3.scale.log()
 	    .domain([1, 1.06])
-	    .range([5,15]);
+	    .range([5,10]);
 
 var force = d3.layout.force()
     .charge(-120)
@@ -41,8 +41,17 @@ var container = svg.append("g");
 d3.json("network_lcsh.json", function(error, graph) {
   if (error) throw error;
 
+  var linkNodes = [];
+
+  graph.links.forEach(function(link) {
+    linkNodes.push({
+      source: graph.nodes[link.source],
+      target: graph.nodes[link.target]
+    });
+  });
+
   force
-      .nodes(graph.nodes)
+      .nodes(graph.nodes.concat(linkNodes))
       .links(graph.links)
       .start();
 
@@ -62,7 +71,14 @@ d3.json("network_lcsh.json", function(error, graph) {
 
   node.append("title")
       .text(function(d) { return d.id; });
-
+      
+  var linkNode = svg.selectAll(".link-node")
+      .data(linkNodes)
+    .enter().append("circle")
+      .attr("class", "link-node")
+      .attr("r", 2)
+      .style("fill", "#ccc");
+      
   force.on("tick", function() {
     link.attr("x1", function(d) { return d.source.x; })
         .attr("y1", function(d) { return d.source.y; })
