@@ -70,7 +70,7 @@ d3.json("dada.json", function(error, graph) {
       .attr("r", 5)
       .style("fill", function(d) { return color(d.bipartite); })
       .call(force.drag);
-      .on('dblclick', connectedNodes); //Added code 
+      	.on('dblclick', connectedNodes); //Added code 
 
   node.append("title")
       .text(function(d) { return d.id; });
