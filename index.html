@@ -120,7 +120,7 @@ function zoomed() {
 
 function searchNodes() {
 	var term = document.getElementById('searchTerm').value
-	var selected - container.selectAll('.node').filter(funciton (d,i)) {
+	var selected = container.selectAll('.node').filter(function (d,i)) {
 		//select all nodes in class node
 		return d.name.toLowerCase().search(term.toLowerCase()) == -1;
 		//or you could do != -1 for what you do want
