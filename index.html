@@ -67,7 +67,17 @@ d3.json("dada.json", function(error, graph) {
       .data(graph.nodes)
     .enter().append("circle")
       .attr("class", "node")
-      .attr("r", 5)
+      .attr("r", function (d, i) { 
+		count = 0;
+		graph.links.forEach(
+			function(l) {
+				//console.log(l.source);
+				if ( l.source.index === i || l.target.index === i ) {
+					count += 1;
+				};
+		});
+		return size(count);
+	})
       .style("fill", function(d) { return color(d.bipartite); })
       .call(force.drag);
 
