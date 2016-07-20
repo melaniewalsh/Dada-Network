@@ -15,8 +15,6 @@
 </style>
 <body>
 <script src="//d3js.org/d3.v3.min.js"></script>
-<script type='text/javascript' src="http://code.jquery.com/ui/1.11.0/jquery-ui.min.js"> </script>
-<script type='text/javascript' src="http://code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.css"> </script>
 <script>
 
 var width = 960,
@@ -41,6 +39,18 @@ var svg = d3.select("body").append("svg")
    .call(d3.behavior.zoom().on('zoom', zoomed));    
 
 var container = svg.append("g");
+
+var search = d3.select("body").append('form').attr('onsubmit', 'return false;');
+
+var box = search.append('input')
+	.attr('type', 'text')
+	.attr('id', 'searchTerm')
+	.attr('placeholder', 'Type to search...')
+
+var button = search.append('input')
+	.attr('type', 'button')
+	.attr('value', 'Search')
+	.on('click', function () { searchNodes(); });
 
 d3.json("dada.json", function(error, graph) {
   if (error) throw error;
@@ -108,40 +118,22 @@ function zoomed() {
   container.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
 }
 
-var optArray = [];
-for (var i = 0; i < graph.nodes.length - 1; i++) {
-    optArray.push(graph.nodes[i].name);
-}
-optArray = optArray.sort();
-$(function () {
-    $("#search").autocomplete({
-        source: optArray
-    });
-});
-function searchNode() {
+function searchNodes() {
+	var term = document.getElementById('searchTerm').value
+	var selected - container.selectAll('.node').filter(funciton (d,i)) {
+		//select all nodes in class node
+		return d.name.toLowerCase().search(term.toLowerCase()) == -1;
+		//or you could do != -1 for what you do want
+	});
+	selected.style('opacity', '0');
+	var link - container.selectAll('.link');
+	link.style('stroke-opacity', '0');
+	d3.selectAll('.node').transition()
+		.duration(5000)
+		.style('opacity', '1');
+	d3.selectAll('link').transition()duration(5000).style('style-opacity', '0.6');
 	
-    //find the node
-    var selectedVal = document.getElementById('search').value;
-    var node = svg.selectAll(".node");
-    if (selectedVal == "none") {
-        node.style("stroke", "white").style("stroke-width", "1");
-    } else {
-        var selected = node.filter(function (d, i) {
-            return d.name != selectedVal;
-        });
-        selected.style("opacity", "0");
-        var link = svg.selectAll(".link")
-        link.style("opacity", "0");
-        d3.selectAll(".node, .link").transition()
-            .duration(5000)
-            .style("opacity", 1);
-    }
 }
+
 
 </script>
-
-<div class="ui-widget">
-   <input id="search">
-    <button type="button" onclick="searchNode()">Search</button>
-</div>
-
