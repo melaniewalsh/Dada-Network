@@ -119,21 +119,23 @@ function zoomed() {
 }
 
 function searchNodes() {
-	var term = document.getElementById('searchTerm').value
-	var selected = container.selectAll('.node').filter(function (d,i)) {
-		//select all nodes in class node
-		return d.name.toLowerCase().search(term.toLowerCase()) == -1;
-		//or you could do != -1 for what you do want
-	});
-	selected.style('opacity', '0');
-	var link - container.selectAll('.link');
-	link.style('stroke-opacity', '0');
-	d3.selectAll('.node').transition()
-		.duration(5000)
-		.style('opacity', '1');
-	d3.selectAll('link').transition()duration(5000).style('style-opacity', '0.6');
-	
+        var term = document.getElementById('searchTerm').value;
+        console.log(term);
+        var selected = container.selectAll('.node').filter(function (d,i) {
+                //select all nodes in class node
+                return d.id.toLowerCase().search(term.toLowerCase()) == -1;
+                //or you could do != -1 for what you do want
+        });
+        selected.style('opacity', '0');
+        var link = container.selectAll('.link');
+        link.style('stroke-opacity', '0');
+        d3.selectAll('.node').transition()
+                .duration(5000)
+                .style('opacity', '1');
+        d3.selectAll('.link').transition().duration(5000).style('stroke-opacity', '0.6');
+
 }
 
 
 </script>
+
