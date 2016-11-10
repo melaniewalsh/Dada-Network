@@ -1,8 +1,8 @@
-This is a force-directed publication network of Dada journals and authors taken from the third chapter of Jörgen Schäfer's bibliography _Exquisite Dada_. Orange nodes represent authors. Blue nodes represent journals. Edge weights represent the number of publications.
+This is a force-directed publication network of Dada journals and authors taken from the third chapter of Jörgen Schäfer's bibliography _Exquisite Dada_. Orange nodes represent authors. Blue nodes represent journals. Edge weights represent number of publications.
 
-I created this graph using the Python module NetworkX, and this visualization was forked from John Ladd and Mike Bostock.
+I created this graph using the Python module NetworkX. This visualization was forked from John Ladd and Mike Bostock.
 
-### How to Explore
+## How to Explore
 ---
 
 * Scroll to zoom
