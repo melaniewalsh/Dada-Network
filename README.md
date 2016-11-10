@@ -3,7 +3,6 @@ This is a force-directed publication network of Dada journals and authors taken 
 I created this graph using the Python module NetworkX. This visualization was forked from John Ladd and Mike Bostock.
 
 ## How to Explore
----
 
 * Scroll to zoom
 * Click and drag to pan
